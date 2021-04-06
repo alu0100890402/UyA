@@ -19,6 +19,7 @@
 > - [Seminario 4: Perceptible](https://github.com/alu0100890402/UyA_GRUPO3/blob/main/Seminario_Perceptible_Grupo_3.pdf)
 > - [Práctica: Introducción CSS.html](https://github.com/alu0100890402/UyA_GRUPO3/blob/main/Pr%C3%A1ctica:%20Introducci%C3%B3n_CSS.html)
 > - [Seminario 5: Operable](https://github.com/alu0100890402/UyA_GRUPO3/blob/main/Seminario_Operable_Grupo_3.pdf)
+> - [Seminario 6: Comprensible y Robusto](https://github.com/alu0100890402/UyA_GRUPO3/blob/main/Seminario_Comprensible_Robusto_Grupo_3.pdf)
 
 
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
